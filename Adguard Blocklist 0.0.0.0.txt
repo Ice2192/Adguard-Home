@@ -16,8 +16,8 @@
 0.0.0.0 adservetx.media.net
 
 # Doubleclick.net
-0.0.0.0 doubleclick.net/
-0.0.0.0 ad.doubleclick.net/
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mediavisor.doubleclick.net
@@ -25,8 +25,8 @@
 # FastClick
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
-0.0.0.0 media.fastclick.net/
-0.0.0.0 cdn.fastclick.net/
+0.0.0.0 media.fastclick.net
+0.0.0.0 cdn.fastclick.net
 
 # Amazon
 0.0.0.0 adtago.s3.amazonaws.com
@@ -51,11 +51,11 @@
 0.0.0.0 hotjar-analytics.com
 
 # MouseFlow
-0.0.0.0 mouseflow.com/
+0.0.0.0 mouseflow.com
 0.0.0.0 a.mouseflow.com
 
 # FreshMarketer
-0.0.0.0 freshmarketer.com/
+0.0.0.0 freshmarketer.com
 
 # Luckyorange
 0.0.0.0 luckyorange.com
