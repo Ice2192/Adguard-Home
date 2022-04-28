@@ -1,6 +1,6 @@
 ! Personal Blocklist:
 
-# d3ward.github.io/toolz/adblock.html
+# Coming from: d3ward.github.io/toolz/adblock.html
 
 # ----------------ADS----------------
 # Google Ads
