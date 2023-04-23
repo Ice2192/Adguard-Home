@@ -1,0 +1,7 @@
+! Personal Blocklist:
+
+# https://d3ward.github.io/toolz/adblock.html
+
+
+||appmetrica.yandex.ru^$important
+||adservice.google.com^$important
