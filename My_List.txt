@@ -5,9 +5,9 @@
 
 ||appmetrica.yandex.ru^$important
 ||adservice.google.com^$important
-||www.googleadservices.com^$important
-||www.googletagmanager.com^$important
-||www.googletagservices.com^$important
+||googleadservices.com^$important
+||googletagmanager.com^$important
+||googletagservices.com^$important
 ||ad.doubleclick.net^$important
 ||t.myvisualiq.net^$important
 
