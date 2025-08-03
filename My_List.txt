@@ -5,3 +5,16 @@
 
 ||appmetrica.yandex.ru^$important
 ||adservice.google.com^$important
+||www.googleadservices.com^$important
+||www.googletagmanager.com^$important
+||www.googletagservices.com^$important
+||ad.doubleclick.net^$important
+||t.myvisualiq.net^$important
+
+
+
+
+
+
+
+
